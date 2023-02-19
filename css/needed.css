@@ -1,0 +1,15 @@
+body{
+    background-color: #d5f2f7;
+}
+hr{  background-color: aliceblue;
+border-style:none;
+border-top-style: dotted;    
+border-width: 5px; 
+    width: 5%;}
+    h3{
+        color:#66BFBF;
+        text-align: left;
+    }
+    .zoro{
+        border-radius: 100%;
+    }
